@@ -1,7 +1,8 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import p1 from "../assets/projects/p1.jpg";
+import p2 from "../assets/projects/p2.jpg";
+import p3 from "../assets/projects/p3.png";
+import p4 from "../assets/projects/p4.jpg";
+
 
 export const HERO_CONTENT = `Highly motivated and skilled software engineer with a Master's degree in Software Engineering from Vellore Institute of Technology, graduating in June 2024. Proficient in Java, Spring Boot, and a wide array of technologies including REST API, MySQL, and Docker. Demonstrated expertise in developing secure and efficient applications through various projects such as token-based authentication systems, microservice architectures, and cloud-hosted solutions.`;
 
@@ -41,28 +42,28 @@ export const EXPERIENCE = [
 export const PROJECTS = [
   {
     title: "Spring Security - Token Based Authentication & Authorization Using JWT",
-    image: project1,
+    image: p1,
     description:
       "Constructed a robust token-based authentication system using a 3-Way security filter chain method, Signature authentication & authorization.Process increases and enhances the overall security and integrity of the application by 75%.",
     technologies: ["HTML", "CSS", "Java", "Rest API", "H2-DB"],
   },
   {
     title: "V-Profile Project Setup (Mannual & Automation)",
-    image: project2,
+    image: p2,
     description:
       "Organized the comprehensive stack project through a blend of manual and automated processes. reduction of human effort by up to 90%, enhancing efficiency and reducing errors.",
     technologies: ["HTML", "CSS", "Vagrant", "Shell","Linux"],
   },
   {
     title: "Portfolio Website",
-    image: project3,
+    image: p3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "JS", "React", "Tailwind CSS"],
   },
   {
     title: "Cloud - Website hosting in AWS and Containerizing in Docker",
-    image: project4,
+    image: p4,
     description:
       "I employed AWS resources such as EC2, EBS, ELB, S3, and private DNS to securely host a personal blog application.Leveraging autoscaling ensured seamless maintenance, adapting resources to demand dynamically.",
     technologies: ["AWS", "Docker", "Java", "Private DNS", "mySQL","git"],
