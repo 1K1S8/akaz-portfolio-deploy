@@ -27,7 +27,7 @@ const Navbar = () => {
          <img className="mx-2 w-10" src={logo} alt="logo"/>
       </div> 
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <a href="www.linkedin.com/in/akash-m-061aa224b" className="text-2xl text-blue-400"><FaLinkedin/></a>
+        <a href="https://www.linkedin.com/in/akash-m-061aa224b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-2xl text-blue-400"><FaLinkedin/></a>
         <a href="https://github.com/1K1S8"><FaGithub/></a>
         <a href="https://www.instagram.com/accounts/login/?hl=en" className="text-2xl text-pink-400"><FaInstagram/></a>
         <a href="https://x.com/i/flow/login"><FaSquareXTwitter/></a>
