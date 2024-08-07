@@ -45,7 +45,7 @@ export const PROJECTS = [
     image: p1,
     description:
       "Constructed a robust token-based authentication system using a 3-Way security filter chain method, Signature authentication & authorization.Process increases and enhances the overall security and integrity of the application by 75%.",
-    technologies: ["HTML", "CSS", "Java", "Rest API", "H2-DB"],
+    technologies: ["HTML", "CSS", "Java", "Rest API", "H2"],
   },
   {
     title: "V-Profile Project Setup (Mannual & Automation)",
@@ -66,7 +66,7 @@ export const PROJECTS = [
     image: p4,
     description:
       "I employed AWS resources such as EC2, EBS, ELB, S3, and private DNS to securely host a personal blog application.Leveraging autoscaling ensured seamless maintenance, adapting resources to demand dynamically.",
-    technologies: ["AWS", "Docker", "Java", "Private DNS", "mySQL","git"],
+    technologies: ["AWS", "Docker", "Java", "mySQL","git"],
   },
 ];
 
