@@ -71,7 +71,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "No,36 3rd Cross Road Azhagapuri Nagar ",
-  phoneNo: "+987654321 ",
+  address: " Vellore,Tamilnadu. ",
+  phoneNo: "9361102603" ,
   email: "makash31102001@gmail.com",
 };
