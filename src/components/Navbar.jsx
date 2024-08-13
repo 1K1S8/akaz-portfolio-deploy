@@ -39,7 +39,7 @@ const Navbar = () => {
           initial="initial"
           animate="animate"
           classname="rounded-2xl border-4 border-neutral-800 p-4">
-          <a href="https://github.com/1K1S8"><FaGithub/></a>
+          <a href="https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github"><FaGithub/></a>
         </motion.div>
         <motion.div
           variants={iconVariants(5)}
