@@ -4,7 +4,9 @@ import p3 from "../assets/projects/p3.png";
 import p4 from "../assets/projects/p4.jpg";
 
 
-export const HERO_CONTENT = `Highly motivated and skilled software engineer with a Master's degree in Software Engineering from Vellore Institute of Technology, graduating in June 2024. Proficient in Java, Spring Boot, and a wide array of technologies including REST API, MySQL, and Docker. Demonstrated expertise in developing secure and efficient applications through various projects such as token-based authentication systems, microservice architectures, and cloud-hosted solutions.`;
+export const HERO_CONTENT = `Highly motivated and skilled software engineer with a Master's degree in Software Engineering from Vellore Institute of Technology, completed in June 2024. My expertise spans across Java, Spring Boot, and a wide range of technologies including JavaScript, React.js, Tailwind CSS, REST API, MySQL, and Docker. I have a strong track record of developing secure and efficient applications, having successfully delivered projects such as token-based authentication systems, microservice architectures, and cloud-hosted solutions.
+
+`;
 
 export const ABOUT_TEXT = `Strong background in DevOps practices and AWS services, enhancing project efficiency and scalability. Certified in Java, Spring Boot, DevOps, and Data Analytics, with a track record of significant improvements in project security, efficiency, and performance. Seeking opportunities to leverage technical skills and innovative problem-solving abilities in a dynamic software engineering role.`;
 
