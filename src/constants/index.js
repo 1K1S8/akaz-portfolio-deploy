@@ -16,9 +16,9 @@ export const EXPERIENCE = [
     name: "Java Developer",
     company: "Hulk Hire Tech",
     description: `Developed the core payment system for an e-commerce client using Spring Boot with Stripe API, implementing a microservices architecture
-                  Managed payment status through integration with 3rd party Stripe APIs, ensuring accurate and timely notifications.
-                  Collaborated with cross-functional teams to seamlessly integrate payment solutions within the e-commerce platform.
-                  Actively participated in Agile sprints, contributing to iterative development and continuous improvement.`,
+    Managed payment status through integration with 3rd party Stripe APIs, ensuring accurate and timely notifications.
+    Collaborated with cross-functional teams to seamlessly integrate payment solutions within the e-commerce platform.
+    Actively participated in Agile sprints, contributing to iterative development and continuous improvement.`,
     technologies: ["Java", "Springboot", "AWS Services", "REST API"],
   },
   // {
