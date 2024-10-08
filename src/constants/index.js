@@ -50,7 +50,7 @@ export const PROJECTS = [
     image: p1,
     description:
       "Constructed a robust token-based authentication system using a 3-Way security filter chain method, Signature authentication & authorization.Process increases and enhances the overall security and integrity of the application by 75%.",
-    technologies: ["HTML", "CSS", "Java", "Rest API", "H2"],
+    technologies: ["Mysql", "Springboot", "Java", "Rest API", "H2"],
   },
   {
     title: "V-Profile Project Setup (Mannual & Automation)",
