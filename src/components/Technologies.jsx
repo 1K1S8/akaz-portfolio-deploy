@@ -47,7 +47,7 @@ const Technologies = () => {
             <FaJava className="text-7xl"/> 
         </motion.div>
         <motion.div
-        variants={iconVariants(5)}
+        variants={iconVariants(4)}
         initial="initial"
         animate="animate"
         classname="rounded-2xl border-4 border-neutral-800 p-4">
